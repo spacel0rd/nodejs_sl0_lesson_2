@@ -1,0 +1,23 @@
+{
+  "name": "nodejs_sl0_lesson_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spacel0rd/nodejs_sl0_lesson_2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spacel0rd/nodejs_sl0_lesson_2/issues"
+  },
+  "homepage": "https://github.com/spacel0rd/nodejs_sl0_lesson_2#readme",
+  "dependencies": {
+    "read": "^1.0.7"
+  }
+}
