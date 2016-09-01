@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/spacel0rd/nodejs_sl0_lesson_2#readme",
   "dependencies": {
+    "fs": "0.0.1-security",
+    "minimist": "^1.2.0",
     "read": "^1.0.7"
   }
 }
